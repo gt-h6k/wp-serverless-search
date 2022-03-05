@@ -47,3 +47,7 @@
   display: flex;
   padding-bottom: 2em;
 }
+
+.wp-sls-search-modal__header a:before {
+  content: "\2715";
+}
